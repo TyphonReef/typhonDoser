@@ -7,6 +7,6 @@ Para atualizar sua dosadora, descubra o endereço IP a partir da aba Sobre da do
 
 Abra o navegador de internet, no endereço http://seu-ip/updateFirmware
 
-adicione o arquivo typhonwifi.ino.bin e clique em Update
+adicione o arquivo espDoser.ino.bin e clique em Update
 
 Após alguns segundos a dosadora irá reiniciar e você pode conferir se esta na versão correta na aba Sobre
